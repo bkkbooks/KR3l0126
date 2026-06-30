@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3l0126/SBCK/v1/juan/0
+seq: 0
+front:
+  text: 續幽怪録目録
+  hash: sha256:707df3d4692611be579638eac8d4a17df68da610f70b8043d65dc207c1509167
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3l0126_SBCK_000-1a}
+body:
+  text: 李復言編第一卷楊恭政辛公平上仙凉國武公李愬薛中丞存誠麒麟客第二卷盧僕射從史李岳州張質韋令公皐鄭虢州騊夫人薛偉第三卷蘇州客張􅁃竇玉妻房杜二相國錢方義第四卷張逢定婚店葉令女驢言蔡榮梁革李衞公靖行雨續幽怪録目録臨安府太廟前尹家書籍鋪刋行
+  hash: sha256:7eb096559b5d5a8ed131260459b4fd62fb78bc279bc3f5142cde27c2cf0d5c61
+metadata:
+  title: 續幽怪錄
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-09-12 00:26:41.577669'
+  source:
+    repository: kanripo
+    path: KR3l0126/KR3l0126_000.txt
+hash: sha256:74feb13e62bcfc488bb8f911586a7d352ae7741c489e46044023bd4238076621
