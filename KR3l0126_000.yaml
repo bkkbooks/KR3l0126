@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3l0126_SBCK_000-1a}
 body:
-  text: 李復言編第一卷楊恭政辛公平上仙凉國武公李愬薛中丞存誠麒麟客第二卷盧僕射從史李岳州張質韋令公皐鄭虢州騊夫人薛偉第三卷蘇州客張庾竇玉妻房杜二相國錢方義第四卷張逢定婚店葉令女驢言蔡榮梁革李衞公靖行雨續幽怪録目録臨安府太廟前尹家書籍鋪刋行
-  hash: sha256:968cc5dbc16befa1b8d0ef8f4c5b60aa1f2489c752b9730bcd97ca0145b82e08
+  text: 李復言編第一卷楊恭政辛公平上仙涼國武公李訴薛中丞存誠麒麟客第二卷盧僕射從史李嶽州張質韋令公皋鄭虢州騊夫人薛偉第三卷蘇州客張庾竇玉妻房杜二相國錢方義第四卷張逢定婚店葉令女驢言蔡榮梁革李衛公靖行雨續幽怪録目録臨安府太廟前尹家書籍鋪刋行
+  hash: sha256:9b5a233880d739465210c8a39ba84e35db6d237acf953d2f3e236e8ab8f0d2f5
 metadata:
   title: 續幽怪錄
   edition:
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3l0126/KR3l0126_000.txt
-hash: sha256:6ad923b96ccacaa95387440fb327094dc7f16e724430058d7fa131b1e7f33f4b
+hash: sha256:d4d07480ffa9cf810157af1d4e83fa79a49a4aa8495c17a977b675f7b19cce78
